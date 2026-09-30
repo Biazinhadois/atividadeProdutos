@@ -1,0 +1,15 @@
+.page{
+  padding: 10px;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.title{
+  font-size: 50px;
+  margin-left: 620px;
+  margin-bottom: 100px;
+}

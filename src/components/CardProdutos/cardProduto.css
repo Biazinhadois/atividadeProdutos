@@ -1,0 +1,10 @@
+.produto{
+    border: 1px solid wheat ;
+    width: 300px;
+    height: 450px;
+}
+
+.subtitle{
+    margin-left: 50px;
+    margin-top: 15px;
+}
